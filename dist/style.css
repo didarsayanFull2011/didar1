@@ -1,0 +1,39 @@
+body{
+  background-color:PaleTurquoise;
+}
+a{
+  font-size:40px;
+  background-color:Lime;
+  color:White;
+  position:sticky;
+  top:5px;
+}
+.knopka{
+  position:sticky;
+  bottom:10px;
+}
+a{
+  font-size:40px;
+  background-color:Lime;
+  color:White;
+  position:sticky;
+  top:5px;
+}
+.first{
+    background-color:DarkTurquoise;
+  text-align:center
+}
+h1{
+  text-align:center;
+}
+.img{
+  
+ text-align:center;
+}
+img{
+   border:3px dashed MediumBlue;
+}
+.video{
+   display:flex;
+justify-content:space-around;
+}
